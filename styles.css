@@ -43,3 +43,12 @@ h2 {
 #bezpieczenstwo{
     text-transform: lowercase;
 }
+body header nav ul {
+    list-style-type: circle;
+}
+#litery{
+    list-style-type: lower-greek;
+}
+.ofqaew{
+    list-style-image: url(punktor.jpg);
+}
