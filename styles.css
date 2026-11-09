@@ -43,3 +43,28 @@ h2 {
 #bezpieczenstwo{
     text-transform: lowercase;
 }
+
+#litery{
+    list-style-type: lower-greek;
+}
+.et22{
+    list-style-image: url(punktor.jpg);
+}
+.imona{
+    list-style-type: square;
+}
+.pusty_okrag{
+    list-style-type: circle;
+}
+#mpr{
+    list-style-type: armenian;
+}
+#pru{
+    list-style-type: georgian;
+}
+#rn{
+    list-style-type: hebrew;
+}
+#dwj{
+    list-style-type: upper-roman;
+}
