@@ -43,3 +43,13 @@ h2 {
 #bezpieczenstwo{
     text-transform: lowercase;
 }
+
+#litery{
+    list-style-type: lower-greek;
+}
+.ofqaew{
+    list-style-image: url(punktor.jpg);
+}
+.imona{
+    list-style-type: square;
+}
